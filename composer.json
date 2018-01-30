@@ -1,5 +1,5 @@
 {
-    "name": "Alexsisukin/php-telegram-bot-core",
+    "name": "alexsisukin/php-telegram-bot-core",
     "type": "library",
     "description": "PHP Telegram bot",
     "keywords": ["telegram", "bot", "api"],
